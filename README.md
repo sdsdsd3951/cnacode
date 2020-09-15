@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Take a look around :)
+
 <!--
 **cnacode/cnacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
